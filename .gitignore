@@ -5,4 +5,5 @@
 *.due
 *.link
 *.native
+*.exe
 _*/
